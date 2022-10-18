@@ -16,3 +16,7 @@
 - El cliente llena el formulario para la toma de datos del caso
 - El cliente realiza el pago de su demanda de manera segura
 - El cliente crea una cuenta para dar seguimiento a su demanda y recibiar notificaciones
+
+
+**diagrama de flujo**
+![](https://raw.githubusercontent.com/1skone/practica-abogabot/main/diagrama%20de%20flujo%201.png?token=GHSAT0AAAAAABZUNYGAOSAUAVPZTT5INQNSY2PGJKA "1")
