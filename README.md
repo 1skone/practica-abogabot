@@ -25,4 +25,8 @@
 **Buyer persona**
 ![buyer](https://github.com/1skone/practica-abogabot/blob/main/Buyer%20persona.png)
 
+**publico objetivo**
+
+![publico](https://github.com/1skone/practica-abogabot/blob/main/publico%20objetivo.png)
+
 
