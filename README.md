@@ -18,5 +18,11 @@
 - El cliente crea una cuenta para dar seguimiento a su demanda y recibiar notificaciones
 
 
-**diagrama de flujo**
+**Diagrama de flujo**
 ![diagrama](https://github.com/1skone/practica-abogabot/blob/main/diagrama%20de%20flujo%201.png)
+
+
+**Buyer persona**
+![buyer](https://github.com/1skone/practica-abogabot/blob/main/Buyer%20persona.png)
+
+
