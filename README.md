@@ -31,6 +31,6 @@
 
 **wireframe**
 
-![wire](https://github.com/1skone/practica-abogabot/blob/main/wireframe.jpg)
+![wire](https://github.com/1skone/practica-abogabot/blob/main/wireframe1.jpg)
 
 
