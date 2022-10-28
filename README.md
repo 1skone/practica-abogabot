@@ -29,4 +29,8 @@
 
 ![publico](https://github.com/1skone/practica-abogabot/blob/main/publico%20objetivo.png)
 
+**wireframe**
+
+![wire](https://github.com/1skone/practica-abogabot/blob/main/wireframe.jpg)
+
 
