@@ -33,4 +33,14 @@
 
 ![wire](https://github.com/1skone/practica-abogabot/blob/main/wireframe.jpg)
 
+**UI**
+
+![ui1](https://github.com/1skone/practica-abogabot/blob/main/u1.jpg)
+
+![ui2](https://github.com/1skone/practica-abogabot/blob/main/u2.jpg)
+
+![ui3](https://github.com/1skone/practica-abogabot/blob/main/u3.jpg)
+
+
+
 
